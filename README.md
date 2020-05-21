@@ -85,10 +85,12 @@
 
   I think you should use an
   `<addr>` element here instead.
-    
+  
+  The `for` method will be better.
+ 
     I think you should use an
     `<addr>` element here instead.
-    
+    Just use `for` method.
  ## Height Code
  
    ```javascript
