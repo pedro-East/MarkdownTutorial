@@ -54,7 +54,7 @@
 # Image  
 -----
 
-  ![GitHub Logo](/images/logo.png)
+  ![GitHub Logo](https://github.com/images/logo.png)
     Format: ![Alt Text](url)
     
     ![GitHub Logo](/images/logo.png)
