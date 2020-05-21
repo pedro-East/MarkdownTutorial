@@ -54,7 +54,7 @@
 # Image  
 -----
 
-  ![GitHub Logo](https://github.com/images/logo.png)
+  ![GitHub Logo](/轻音少女3.png)
     Format: ![Alt Text](url)
     
     ![GitHub Logo](/images/logo.png)
